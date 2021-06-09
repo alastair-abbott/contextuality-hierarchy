@@ -4,7 +4,7 @@
 
 This code provides an implementation of a SDP hierarchy of necessary conditions to bound the set of quantum correlations in contextuality scenarios, as described in
 
-> [A. Tavakoli, E. Zambrini Cruzeiro, R. Uola, A. A. Abbott, "Bounding and simulating contextual correlations in quantum theory", arXiv:2010.04751 [quant-ph] (2020)](https://arxiv.org/abs/2010.04751)
+> [A. Tavakoli, E. Zambrini Cruzeiro, R. Uola, A. A. Abbott, "Bounding and simulating contextual correlations in quantum theory", PRX Quantum **2**, 020334 (2021)](https://doi.org/10.1103/PRXQuantum.2.020334)
 
 and can handle almost completely arbitrary contextuality scenarios, with many options, for example to restrict to quantum models comprised of pure states.
 A similar hierarchy to bound the simulation cost of quantum or post-quantum contextual correlations is also provided.
